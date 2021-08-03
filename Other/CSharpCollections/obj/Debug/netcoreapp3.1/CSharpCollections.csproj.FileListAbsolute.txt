@@ -1,0 +1,13 @@
+/home/dayls/Рабочий стол/CSharpCollections/CSharpCollections/bin/Debug/netcoreapp3.1/CSharpCollections
+/home/dayls/Рабочий стол/CSharpCollections/CSharpCollections/bin/Debug/netcoreapp3.1/CSharpCollections.deps.json
+/home/dayls/Рабочий стол/CSharpCollections/CSharpCollections/bin/Debug/netcoreapp3.1/CSharpCollections.runtimeconfig.json
+/home/dayls/Рабочий стол/CSharpCollections/CSharpCollections/bin/Debug/netcoreapp3.1/CSharpCollections.runtimeconfig.dev.json
+/home/dayls/Рабочий стол/CSharpCollections/CSharpCollections/bin/Debug/netcoreapp3.1/CSharpCollections.dll
+/home/dayls/Рабочий стол/CSharpCollections/CSharpCollections/bin/Debug/netcoreapp3.1/CSharpCollections.pdb
+/home/dayls/Рабочий стол/CSharpCollections/CSharpCollections/obj/Debug/netcoreapp3.1/CSharpCollections.csprojAssemblyReference.cache
+/home/dayls/Рабочий стол/CSharpCollections/CSharpCollections/obj/Debug/netcoreapp3.1/CSharpCollections.AssemblyInfoInputs.cache
+/home/dayls/Рабочий стол/CSharpCollections/CSharpCollections/obj/Debug/netcoreapp3.1/CSharpCollections.AssemblyInfo.cs
+/home/dayls/Рабочий стол/CSharpCollections/CSharpCollections/obj/Debug/netcoreapp3.1/CSharpCollections.csproj.CoreCompileInputs.cache
+/home/dayls/Рабочий стол/CSharpCollections/CSharpCollections/obj/Debug/netcoreapp3.1/CSharpCollections.dll
+/home/dayls/Рабочий стол/CSharpCollections/CSharpCollections/obj/Debug/netcoreapp3.1/CSharpCollections.pdb
+/home/dayls/Рабочий стол/CSharpCollections/CSharpCollections/obj/Debug/netcoreapp3.1/CSharpCollections.genruntimeconfig.cache

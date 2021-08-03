@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Minecraft Story Mode Episode 8
+Exec=env WINEPREFIX="/home/dayls/.wine" wine C:\\\\Games\\\\Minecraft\\ Story\\ Mode\\ Episode\\ 8\\\\MinecraftStoryMode.exe 
+Type=Application
+StartupNotify=true
+Path=/home/dayls/.wine/dosdevices/c:/Games/Minecraft Story Mode Episode 8
+Icon=C983_MinecraftStoryMode.0
+StartupWMClass=minecraftstorymode.exe
